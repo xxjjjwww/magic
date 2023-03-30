@@ -1,1 +1,3 @@
 # magic
+
+magic golang code.
